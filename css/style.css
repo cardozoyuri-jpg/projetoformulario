@@ -5,20 +5,20 @@
 }
 
 body {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #333;
+    color: #ffffff;
 }
 
 p, label {
-    color: #444;
+    color: #ffffff;
 }
 
 input {
     border: none;
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px solid #ffffff;
     padding: 10px 0;
 }
 
@@ -33,7 +33,7 @@ textarea {
 .cabecalho {
     height: 160px;
     padding: 20px;
-    background-color: #e91212;
+    background-color: #00eeff;
 } 
 
 .cabecalho h3 {
@@ -50,13 +50,13 @@ textarea {
 }
 
 .form-header {
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px solid #ffffff;
     height: 45px;
 }
 
 .form-header p{
-    color: #ff0000;
-    border-bottom: 2px solid #ff0000;
+    color: #00ccff;
+    border-bottom: 2px solid #00e1ff;
     width: 100%;
     text-align: center;
     margin: 0 auto;
@@ -78,7 +78,7 @@ textarea {
 }
 
 .campo-obrigatorio {
-    color: #d80835;
+    color: #00e1ff;
 }
 
 .caixaInputs {
@@ -100,7 +100,7 @@ textarea {
 }
 
 .btn-submit {
-    background-color: #ff0000;
+    background-color: #02d9ff;
     color: #fff;
     border: 2px solid transparent;
     width: 150px;
@@ -112,6 +112,6 @@ textarea {
 
 .btn-submit:hover {
     background-color: #fff;
-    color: #f00202;
-    border-color: #ff0808;
+    color: #00d9ff;
+    border-color: hsl(194, 100%, 52%);
 }
