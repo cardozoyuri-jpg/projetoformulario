@@ -5,11 +5,11 @@
 }
 
 body {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #8181815e;
+    color: #ffffff5e;
 }
 
 p, label {
@@ -33,16 +33,16 @@ textarea {
 .cabecalho {
     height: 160px;
     padding: 20px;
-    background-color: #00eeff;
+    background-color: #000000;
 } 
 
 .cabecalho h3 {
-    color: #fff;
+    color: #000000;
     margin-top: 0;
 }
 
 .form-container {
-    background-color: #807c7c3f;
+    background-color: #ffffff3f;
     width: 60%;
     margin: 0 auto;
     position: relative;
