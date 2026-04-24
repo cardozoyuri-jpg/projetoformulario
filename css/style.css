@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #f0ebf8;
+    background-color: #000000;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -18,7 +18,7 @@ p, label {
 
 input {
     border: none;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #000000;
     padding: 10px 0;
 }
 
@@ -50,7 +50,7 @@ textarea {
 }
 
 .form-header {
-    border-bottom: 1px solid #dfdfdf;
+    border-bottom: 1px solid #000000;
     height: 45px;
 }
 
