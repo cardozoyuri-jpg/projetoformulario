@@ -9,11 +9,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #ffffff5e;
+    color: #7e7d7d5e;
 }
 
 p, label {
-    color: #ffffff;
+    color: #8d8d8d;
 }
 
 input {
@@ -37,7 +37,7 @@ textarea {
 } 
 
 .cabecalho h3 {
-    color: #00eeff;
+    color: #ffffff;
     margin-top: 0;
 }
 
@@ -55,7 +55,7 @@ textarea {
 }
 
 .form-header p{
-    color: #00ccff;
+    color: #000000;
     border-bottom: 2px solid #00e1ff;
     width: 100%;
     text-align: center;
@@ -111,7 +111,7 @@ textarea {
 }
 
 .btn-submit:hover {
-    background-color: #7e7e7e44;
-    color: #00d9ff;
-    border-color: hsl(194, 100%, 52%);
+    background-color: #ffffff44;
+    color: #000000;
+    border-color: hsl(0, 0%, 0%);
 }
