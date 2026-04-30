@@ -115,3 +115,18 @@ textarea {
     color: #000000;
     border-color: hsl(0, 0%, 0%);
 }
+
+hr {
+    margin-top: 35px;
+    height: 6px;
+    background: linear-gradient(to right, transparent, #3a66b7, transparent);
+    margin: 20px 0;
+    border: none;
+}
+
+#listarCarros {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
